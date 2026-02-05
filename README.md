@@ -3,7 +3,7 @@
 <div style="border: 1px solid black; padding: 10px;">
 
 <p>
-This project was developed as part of the <strong>Context Awareness Systems</strong> course in the Master’s in Computer Engineering – Mobile Computing during the academic year of 2024/2025.
+  This project was developed as part of the <strong>Context Awareness Systems</strong> course on the Master's in Computer Engineering (Mobile Computing) degree during the 2023/24 academic year.
 </p>
 
 <h1>Collaborators</h1>
@@ -104,11 +104,18 @@ a solid foundation for future improvements.
 
 <h1>Other Information</h1>
 <ul>
-  <li>This project was developed for academic purposes</li>
-  <li>Part of the <a href="https://www.ipleiria.pt/curso/mestrado-em-engenharia-informatica-computacao-movel/" rel="nofollow">
-      Master’s in Computer Engineering – Mobile Computing</a></li>
-  <li>Institution: <a href="https://www.ipleiria.pt" rel="nofollow">Polytechnic of Leiria</a></li>
+  <li><strong>Our project received a grade of 15.05 out of 20.</strong></li>
+  <li>This project was developed for the <a href="https://www.ipleiria.pt/curso/mestrado-em-engenharia-informatica-computacao-movel/" rel="nofollow">Computer Engineering (Mobile Computing) master's degree</a> at <a href="https://www.ipleiria.pt" rel="nofollow">Polytechnic of Leiria</a></li>
 </ul>
+
+<p>
+<a href="https://www.ipleiria.pt/estg/" rel="nofollow">
+<img src="https://www.ipleiria.pt/normasgraficas/wp-content/uploads/sites/80/2017/09/estg_h-01.jpg"
+     width="300"
+     alt="Escola Superior de Tecnologia e Gestão"
+     style="max-width: 100%;">
+</a>
+</p>
 
 </div>
 
