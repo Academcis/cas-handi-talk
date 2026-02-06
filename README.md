@@ -104,7 +104,7 @@ a solid foundation for future improvements.
 
 <h1>Other Information</h1>
 <ul>
-  <li><strong>Our project received a grade of 15.05 out of 20.</strong></li>
+  <li><strong>Our project received a grade of 15.70 out of 20.</strong></li>
   <li>This project was developed for the <a href="https://www.ipleiria.pt/curso/mestrado-em-engenharia-informatica-computacao-movel/" rel="nofollow">Computer Engineering (Mobile Computing) master's degree</a> at <a href="https://www.ipleiria.pt" rel="nofollow">Polytechnic of Leiria</a></li>
 </ul>
 
